@@ -1,2 +1,2 @@
 # git-test
-To push repository through gitbash
+To Find Github User easily.
