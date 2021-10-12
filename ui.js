@@ -90,6 +90,6 @@ class UI {
 
     // clear profile
     clearProfile() {
-        this.profile.innerHTML = '';
+        this.profile.innerHTML = 'cleared';
     }
 }
