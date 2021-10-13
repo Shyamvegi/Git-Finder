@@ -13,7 +13,7 @@ class Github {
 
         const profile = await profileResponse.json();
         const repos = await repoResponse.json();
-
+        const prs=await prsResponse.json();
         return {
             profile,
             repos
