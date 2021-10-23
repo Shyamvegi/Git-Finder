@@ -13,7 +13,7 @@ class UI {
                     </div>
                     <div class="col-md-9">
                         <span class="badge badge-primary">Publick Repos: ${user.public_repos}</span>
-                        <span class="badge badge-secondary">Publick Gits: ${user.public_gits}</span>
+                        <span class="badge badge-secondary">Public Gits: ${user.public_gits}</span>
                         <span class="badge badge-success">Followers: ${user.followers}</span>
                         <span class="badge badge-info">Following: ${user.following}</span>
                         <br><br>
