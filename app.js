@@ -17,7 +17,7 @@ const debounce = (func, delay = 250) => {
     }
 };
 
-// Serach Input 
+// Serach 
 searchUser.addEventListener('keyup', debounce((e) => {
     // Get input text
     const userText = e.target.value;
